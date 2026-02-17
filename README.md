@@ -1,5 +1,3 @@
-# Task3_SQL_Data_Analysis
-
 # Task 3: SQL for Data Analysis
 
 ## Objective
